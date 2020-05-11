@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/uav/realsense_ws/devel/include/**",
+                "/home/uav/fengrubei_ws/devel/include/**",
+                "/home/uav/gazebo_drone_tutorials/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/uav/gazebo_drone_tutorials/catkin_ws/src/discretetrigger/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_gazebo/hector_gazebo_plugins/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_gazebo/hector_gazebo_thermal_camera/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_localization/hector_pose_estimation/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_localization/hector_pose_estimation_core/include/**",
+                "/home/uav/gazebo_drone_tutorials/catkin_ws/src/hector_quad_simple_ctrl/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_quadrotor/hector_quadrotor_actions/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_quadrotor/hector_quadrotor_controller_gazebo/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_quadrotor/hector_quadrotor_gazebo_plugins/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_quadrotor/hector_quadrotor_interface/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_quadrotor/hector_quadrotor_model/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_quadrotor/hector_quadrotor_pose_estimation/include/**",
+                "/home/uav/realsense_ws/src/quadrotor/hector_quadrotor/hector_uav_msgs/include/**",
+                "/home/uav/gazebo_drone_tutorials/catkin_ws/src/judge_system/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
