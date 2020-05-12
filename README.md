@@ -2,7 +2,7 @@
 
 ```shell
 cd ~
-git clone https://github.com/RaphaelCS/realsense_ws
+git clone https://github.com/RaphaelCS/realsense_ws.git
 
 cd realsense_ws
 catkin_make
